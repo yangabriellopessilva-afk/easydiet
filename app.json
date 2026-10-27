@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "EasyDiet",
+    "slug": "easydiet",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "com.easydiet.app",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "backgroundColor": "#101713"
+      }
+    },
+    "splash": {
+      "backgroundColor": "#101713",
+      "resizeMode": "contain"
+    }
+  }
+}
